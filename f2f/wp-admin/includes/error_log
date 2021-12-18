@@ -1,0 +1,4 @@
+[27-Oct-2021 19:37:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/f2fsolutions/public_html/f2f/wp-admin/includes/class-wp-comments-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/f2fsolutions/public_html/f2f/wp-admin/includes/class-wp-comments-list-table.php on line 18
