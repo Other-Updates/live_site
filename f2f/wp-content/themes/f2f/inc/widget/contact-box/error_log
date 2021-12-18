@@ -1,0 +1,1 @@
+[23-Aug-2018 02:47:27 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/inf2fsolutions/public_html/wp-content/themes/f2f/inc/widget/contact-box/class-radiantthemes-contact-box-widget.php on line 11

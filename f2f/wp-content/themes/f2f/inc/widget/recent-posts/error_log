@@ -1,0 +1,1 @@
+[23-Aug-2018 02:47:46 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/inf2fsolutions/public_html/wp-content/themes/f2f/inc/widget/recent-posts/class-radiantthemes-recent-posts-widget.php on line 11
