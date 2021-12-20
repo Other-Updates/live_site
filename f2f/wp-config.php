@@ -23,10 +23,10 @@
 define('DB_NAME', 'cof2fsol_siTe2021');
 
 /** MySQL database username */
-define('DB_USER', 'cof2fsol_SA2021');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'I~*{]$c0Y6uZ');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

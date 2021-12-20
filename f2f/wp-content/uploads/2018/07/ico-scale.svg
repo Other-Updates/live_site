@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 81.9 65" style="enable-background:new 0 0 81.9 65;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<title>vision-svg</title>
+<g id="Layer_2">
+	<g id="Layer_1-2">
+		<circle class="st0" cx="13.9" cy="4" r="3"/>
+		<path class="st0" d="M0.9,39.3"/>
+		<path class="st0" d="M26.7,39.3"/>
+		<line class="st0" x1="14.6" y1="7.1" x2="23.9" y2="39.3"/>
+		<line class="st0" x1="3.1" y1="39.3" x2="13.1" y2="7.1"/>
+		<path class="st1" d="M26.7,40c0,7.1-5.7,12.8-12.8,12.8S1,47.1,1,40H26.7z"/>
+		<circle class="st0" cx="67.9" cy="4" r="3"/>
+		<path class="st0" d="M55.2,39.3"/>
+		<path class="st0" d="M80.9,39.3"/>
+		<line class="st0" x1="68.8" y1="7.1" x2="78.1" y2="39.3"/>
+		<path class="st0" d="M80.2,39.3"/>
+		<path class="st0" d="M76.1,24.9"/>
+		<line class="st2" x1="74.6" y1="17.4" x2="76.8" y2="24.9"/>
+		<line class="st2" x1="3.3" y1="28" x2="1.2" y2="35.6"/>
+		<path class="st0" d="M73.9,17.4"/>
+		<path class="st0" d="M71,7.1"/>
+		<line class="st0" x1="57.3" y1="39.3" x2="67.3" y2="7.1"/>
+		<path class="st1" d="M80.9,40c0,7.1-5.7,12.8-12.8,12.8c-7.1,0-12.8-5.7-12.8-12.8H80.9z"/>
+		<path class="st0" d="M35.9,1H45c2.2,0,3.9,1.8,3.9,3.9v0.2C48.9,7.2,47.2,9,45,9h-9.2c-2.2,0-3.9-1.8-3.9-3.9V4.9
+			C31.9,2.8,33.7,1,35.9,1z"/>
+		<path class="st0" d="M31.4,59h20c1.4,0,2.5,1.1,2.5,2.5l0,0c0,1.4-1.1,2.5-2.5,2.5h-20c-1.4,0-2.5-1.1-2.5-2.5l0,0
+			C28.9,60.1,30.1,59,31.4,59z"/>
+		<line class="st0" x1="49.9" y1="4" x2="64.9" y2="4"/>
+		<line class="st0" x1="38.9" y1="9" x2="38.9" y2="59"/>
+		<line class="st0" x1="41.9" y1="9" x2="41.9" y2="59"/>
+		<line class="st0" x1="16.9" y1="4" x2="31.9" y2="4"/>
+	</g>
+</g>
+</svg>

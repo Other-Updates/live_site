@@ -1,0 +1,69 @@
+
+---Downloaded files---
+The import files for: Software Firm were successfully downloaded!
+Initial max execution time = 90
+Files info:
+Site URL = https://demo.f2fsolutions.co.in/f2f_v2
+Data file = /home/f2fsolutions/public_html/demo/f2f_v2/wp-content/themes/f2f/inc/import/software-firm/content.xml
+Widget file = /home/f2fsolutions/public_html/demo/f2f_v2/wp-content/themes/f2f/inc/import/software-firm/widgets.wie
+Customizer file = not defined!
+Redux files:
+unbound_theme_option -> /home/f2fsolutions/public_html/demo/f2f_v2/wp-content/themes/f2f/inc/import/software-firm/redux.json 
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Widgets in Menu : 
+
+Navigation Menu - Agency - Imported
+Navigation Menu - Creative - Imported
+Navigation Menu - Portfolio - Imported
+
+Sidebar : 
+
+Search - No Title - Widget already exists
+Unbound Recent Posts With Thumbnail Widget - No Title - Widget already exists
+Categories - Categories - Widget already exists
+Archives - Archives - Widget already exists
+Tag Cloud - Tags - Widget already exists
+
+Product | Sidebar : 
+
+Product Search - No Title - Widget already exists
+Filter Products by Price - Filter by price - Widget already exists
+Product Categories - Product categories - Widget already exists
+Products by Rating - Top rated products - Widget already exists
+
+Footer | #1 : 
+
+Text - About Us - Imported
+
+Footer | #2 : 
+
+Navigation Menu - Important Links - Imported
+
+Footer | #3 : 
+
+Navigation Menu - Featured Services - Imported
+
+Footer | #4 : 
+
+Text - Contact Us - Imported
+
+Hamburger | Sidebar : 
+
+Image - No Title - Widget already exists
+Navigation Menu - No Title - Widget already exists
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: unbound_theme_option finished successfully!
+
+---pt-ocdi/after_import---
+
